@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(165, 213, 233);
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+}
+#giphy-party-form {
+  display: flex;
+  justify-content: center;
+}
+#giphy-name {
+  padding: 2px;
+  font-size: 21px;
+  width: 280px;
+  height: 40px;
+}
+
+#search-button {
+  background-color: midnightblue;
+  color: aliceblue;
+  font-size: 17px;
+}
+#remove-button {
+  background-color: rgb(169, 1, 1);
+  color: aliceblue;
+  font-size: 17px;
+}
+
+.img {
+  width: 250px;
+  height: 250px;
+  margin: 10px;
+}
